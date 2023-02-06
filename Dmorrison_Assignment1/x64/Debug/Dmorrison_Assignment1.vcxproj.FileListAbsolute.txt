@@ -1,0 +1,2 @@
+C:\Darmor\School\Dmorrison_Assignment1\x64\Debug\Lab1.exe
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment1\Dmorrison_Assignment1\x64\Debug\Lab1.exe

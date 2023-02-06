@@ -1,0 +1,5 @@
+﻿  Queue.c
+  main.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment1\Dmorrison_Assignment1\main.c(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Dmorrison_Assignment1.vcxproj -> C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment1\Dmorrison_Assignment1\x64\Debug\Lab1.exe
