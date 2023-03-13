@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Dmorrison_Assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  event_groups.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\event_groups.c(79,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  list.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\list.c(72,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  heap_4.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\portable\MemMang\heap_4.c(85,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  port.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\portable\MSVC-MingW\port.c(74,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  queue.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\queue.c(78,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  tasks.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\tasks.c(80,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  timers.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\timers.c(78,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  supporting_functions.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\FreeRTOS_Source\supporting_functions.c(99,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  main.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\main.c(8,2): warning C4013: 'main_a' undefined; assuming extern returning int
+  main_a.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\main_a.c(8,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  main_b.c
+C:\Darmor\School\Embedded Operating Systems\Dmorrison_Assignment2\Dmorrison_Lab2\main_b.c(8,10): fatal error C1083: Cannot open include file: 'FreeRTOS.h': No such file or directory
+  Generating Code...
